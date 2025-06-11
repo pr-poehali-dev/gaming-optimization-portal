@@ -1,6 +1,7 @@
 import Navigation from "@/components/Navigation";
 import Hero from "@/components/Hero";
 import OptimizationCard from "@/components/OptimizationCard";
+import Icon from "@/components/ui/icon";
 
 const Index = () => {
   const optimizations = [
